@@ -5,9 +5,9 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in South Tyrol
-* 🖥️  See my portfolio at [My Website](http://insertdaviddevhere.com)
-* ✉️  You can contact me at [www.linkedin.com/in/davidhofer-dev](mailto:www.linkedin.com/in/davidhofer-dev)
-* 🚀  I'm currently working on [CRM Platform](http://insertdaviddevhere.com)
+* 🖥️  See my portfolio at [My Website](http://comingsoondaviddev.com)
+* ✉️  You can contact me at [david93hofer@hotmail.de](mailto:david93hofer@hotmail.de)
+* 🚀  I'm currently working on [CRM Platform](http://comingsoondaviddev.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on any interesting idea
 * ⚡  My superpower is making coffee disappear
