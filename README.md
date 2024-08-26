@@ -9,7 +9,7 @@ Frontend Developer
 * ✉️  You can contact me at [david93hofer@hotmail.de](mailto:david93hofer@hotmail.de)
 * 🚀  I'm currently working on [CRM Platform](http://comingsoondaviddev.com)
 * 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on any interesting idea
+* 🤝  I'm open to collaborating on turning good ideas into great ones (and memes)
 * ⚡  My superpower is making coffee disappear
 
 ### Skills
@@ -28,7 +28,7 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HoferDavid"><img src="https://github-readme-stats.vercel.app/api?username=HoferDavid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="HoferDavid's GitHub stats" /></a>
+<a href="http://www.github.com/HoferDavid"><img src="https://github-readme-stats.vercel.app/api?username=HoferDavid&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="HoferDavid's GitHub stats" /></a>
 
 <a href="http://www.github.com/HoferDavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HoferDavid&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
