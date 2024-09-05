@@ -5,9 +5,9 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in South Tyrol
-* 🖥️  See my portfolio at [My Website](http://www.linkedin.com/in/davidhofer-dev)
-* ✉️  You can contact me at [david93hofer@hotmail.de](mailto:david93hofer@hotmail.de)
-* 🚀  I'm currently working on [Angular based Projects](http://www.linkedin.com/in/davidhofer-dev)
+* 🖥️  See my portfolio at [My Website](http://www.davidhofer.com)
+* ✉️  You can contact me at [www.linkedin.com/in/davidhofer-dev](mailto:www.linkedin.com/in/davidhofer-dev)
+* 🚀  I'm currently working on [Angular based Projects](http://www.davidhofer.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on turning good ideas into great ones (and memes)
 * ⚡  My superpower is making coffee disappear
