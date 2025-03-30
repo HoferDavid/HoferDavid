@@ -5,10 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in South Tyrol
-* 🖥️  See my portfolio at [Portfolio Website](http://www.davidhofer.com)
 * ✉️  You can contact me at [www.linkedin.com/in/davidhofer-dev](mailto:www.linkedin.com/in/davidhofer-dev)
-* 🚀  I'm currently working on [Capital gains tax tool](http://www.davidhofer.com)
-* 🧠  I'm learning Angular, React, Firebase
 * 🤝  I'm open to collaborating on turning good ideas into great ones (and memes)
 * ⚡  My superpower is making coffee disappear
 
